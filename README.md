@@ -11,10 +11,8 @@
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🧠 About Me
-- 🌱 Currently learning: **MERN Stack + AWS**
-- 🛠️ Building: Cool web apps with **MongoDB | Express | React | Node**
-- 💬 Ask me about: **JS, React, Git, Python**
-- 📧 Reach me: `00lionel11@gmail.com`
+- 🌱 Currently learning: **Figma + Pyhton**
+- 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
 - 🎯 2025 Goal: Land a job & contribute to open source
 
 ---
