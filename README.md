@@ -21,29 +21,25 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/gitlab/gitlab-original-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/terraform/terraform-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-plain-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/selenium/selenium-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 </div>
