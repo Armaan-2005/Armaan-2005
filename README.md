@@ -1,8 +1,8 @@
 
-<h2 align="center">Hi 👋, I'm Armaan — A Passionate Web Developer from India</h2>
+<h2 align="center">Hi 👋, I'm Armaan — A Passionate Devops Engineer from India</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Full+Stack+Web+Developer;BSc+Computer+Science+Student;Lifelong+Learner+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Devops+Engineer+and+AWS+cloud+consultant;BCA - +Bachelor+of+Computer+Applications+Graduate;Lifelong+Learner+🚀" />
 </p>
 
 ---
@@ -11,20 +11,9 @@
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🧠 About Me
-- 🌱 Currently learning: **Figma + Pyhton**
+- 🌱 Currently learning: **Devops + AWS**
 - 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
-- 🎯 2025 Goal: Land a job & contribute to open source
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewith-lionel&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewith-lionel&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
-
-  <img src="https://streak-stats.demolab.com?user=codewith-lionel&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-</div>
+- 🎯 2026 Goal: Land a job & contribute to open source
 
 ---
 
@@ -74,9 +63,3 @@
   </a>
 </div>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewith-lionel&theme=radical&no-frame=true&row=1&margin-w=10" />
-</p>
