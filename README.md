@@ -10,30 +10,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaan-2005&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaan-2005&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ### 🧠 About Me
 - 🌱 Currently learning: **Devops + AWS**
 - 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
 - 🎯 2026 Goal: Land a job & contribute to open source
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 AWS Static Website | Hosted a static website using S3 | AWS S3, IAM |
-| 🐳 Dockerized Python App | Containerized Flask application | Docker |
-| ☁ Terraform Infrastructure | Provisioned AWS resources using Terraform | Terraform, AWS |
-| ⚙ CI/CD Pipeline | Automated deployments with GitHub Actions | GitHub Actions |
 
 ---
 
