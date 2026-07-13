@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Stack
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
+  <img src="[https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img width="12" />
