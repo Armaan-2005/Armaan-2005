@@ -10,9 +10,6 @@
 
 ---
 
-<!-- Animated GIF -->
-<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### 🧠 About Me
 - 🌱 Currently learning: **Devops + AWS**
 - 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
