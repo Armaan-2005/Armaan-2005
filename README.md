@@ -43,7 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original-wordmark.svg" height="30" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/githubactions/githubactions-plain-wordmark.svg" height="30" />
+  <img width="12" />
 </div>
 
 ---
