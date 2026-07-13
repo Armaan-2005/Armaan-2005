@@ -3,9 +3,18 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&center=true&vCenter=true&width=600&lines=DevOps+Engineer+and+AWS+Consultant;BCA+Graduate;Lifelong+Learner+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&center=true&vCenter=true&width=600&lines=DevOps+and+AWS+Learner;BCA+Graduate;Lifelong+Learner+%F0%9F%9A%80"
     alt="Typing SVG"
   />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armaan-2005&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaan-2005&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -14,6 +23,23 @@
 - 🌱 Currently learning: **Devops + AWS**
 - 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
 - 🎯 2026 Goal: Land a job & contribute to open source
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 AWS Static Website | Hosted a static website using S3 | AWS S3, IAM |
+| 🐳 Dockerized Python App | Containerized Flask application | Docker |
+| ☁ Terraform Infrastructure | Provisioned AWS resources using Terraform | Terraform, AWS |
+| ⚙ CI/CD Pipeline | Automated deployments with GitHub Actions | GitHub Actions |
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Armaan-2005/Armaan-2005/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
