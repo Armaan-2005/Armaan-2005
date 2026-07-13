@@ -17,12 +17,6 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Armaan-2005/Armaan-2005/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ### 🧰 Tech Stack
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" />
