@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Armaan — A Passionate Devops Engineer from India</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Devops+Engineer+and+AWS+cloud+consultant;BCA - +Bachelor+of+Computer+Applications+Graduate;Lifelong+Learner+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=440&lines=Devops+Engineer+and+AWS+cloud+consultant;BCA - +Bachelor+of+Computer+Applications+Graduate;Lifelong+Learner+🚀" />
 </p>
 
 ---
