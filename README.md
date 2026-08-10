@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-plain-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/selenium/selenium-original.svg" height="30" />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="30" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" height="30" />
