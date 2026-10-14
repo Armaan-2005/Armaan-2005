@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋, I'm Armaan — A Passionate Devops Engineer from India</h2>
+<h2 align="center">Hi 👋, I'm Mohammed Armaan — An Upcoming Devops Engineer from India</h2>
 
 <p align="center">
   <img
@@ -45,8 +45,11 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/powershell/powershell-original.svg" height="30" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ansible/ansible-original.svg" height="30" />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="30" />
   <img width="12" />
+
 </div>
 
 ---
