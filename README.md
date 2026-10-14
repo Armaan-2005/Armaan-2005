@@ -13,7 +13,9 @@
 ### 🧠 About Me
 - 🌱 Currently learning: **Devops + AWS**
 - 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
-- 🎯 2026 Goal: Land a job & contribute to open source
+- 🧑‍💻 Current Job: **Devops Trainer** at **Career Ladder**
+- 📍 Location: **Coimbatore, Tamilnadu**
+- 🎯 2026 Goal: Learn & Grow more as a Devops Trainer
 
 ---
 
@@ -27,9 +29,13 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/terraform/terraform-original.svg" height="30" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jenkins/jenkins-original.svg" height="30" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg" height="30" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/prometheus/prometheus-original.svg" height="30" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/grafana/grafana-plain-wordmark.svg" height="30" />
   <img width="12" />
