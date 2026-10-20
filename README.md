@@ -11,11 +11,11 @@
 ---
 
 ### 🧠 About Me
-- 🌱 Currently learning: **Devops + AWS**
+- 🌱 Currently learning: **Kubernetes**
 - 📧 Reach me: `mohammedarmaanbakshi@gmail.com`
 - 🧑‍💻 Current Job: **Devops Trainer** at **Career Ladder**
 - 📍 Location: **Coimbatore, Tamilnadu**
-- 🎯 2026 Goal: Learn & Grow more as a Devops Trainer
+- 🎯 2027 Goal: Land a job role as **Devops Engineer** in any company
 
 ---
 
